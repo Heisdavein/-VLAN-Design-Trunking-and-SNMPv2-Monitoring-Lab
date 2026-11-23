@@ -119,16 +119,9 @@ flowchart LR
 
 The Monitor Server also had a **NetFlow Collector** tool. It was looked at but not used.
 
-> **Screenshot Placeholder**
-> 
-> 
-> Insert screenshot here:
-> 
-> `screenshots/lab2-topology-packet-tracer.png`
-> 
-> - **Capture:** The Lab 2 topology in the Packet Tracer workspace: router DMT-Edge01, switch DMT-SW01, the Monitor Server, application servers and PCs.
-> - **Why:** Shows the SNMP manager and agents and how they are connected.
-> - **Where:** Packet Tracer, logical workspace view.
+ 
+<img width="1376" height="768" alt="image" src="https://github.com/user-attachments/assets/9f7d97e6-1f11-45a4-afd7-df6d1ff521d6" />
+  The Lab 2 topology in the Packet Tracer workspace: router DMT-Edge01, switch DMT-SW01, the Monitor Server, application servers and PCs.
 
 ## How the two labs relate
 
